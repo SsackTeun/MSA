@@ -1,5 +1,4 @@
-# MSA
-Project
+# MSA PROJECT
 ---
 BFF 패턴 적용 (backend for frontend)
 
