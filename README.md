@@ -15,3 +15,8 @@ Spring Boot 구성
 Auth Server (JWT Token)
 ---
 https://github.com/SsackTeun/jwt
+
+- JWT token 의 관리 및 구현 참고자료
+  https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-Access-Token-Refresh-Token-%EC%9B%90%EB%A6%AC-feat-JWT
+
+---
